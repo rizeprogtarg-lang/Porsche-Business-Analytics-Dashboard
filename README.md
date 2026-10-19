@@ -2,7 +2,7 @@
 
 Este projeto é um dashboard interativo de vendas desenvolvido num único ficheiro HTML[cite: 4]. Foi desenhado para analisar 100 registos de vendas sanitizadas de veículos da Porsche[cite: 4], transformando dados brutos em inteligência de negócio navegável através de uma interface executiva e refinada, inspirada no design da marca (Dark Mode, Tailwind CSS, Chart.js)[cite: 4].
 
-🔗 **[Aceda ao Dashboard Publicado Aqui](https://SEU-USUARIO-AQUI.github.io/NOME-DO-REPOSITORIO/)** *(Substitua este link pelo endereço real do seu GitHub Pages)*
+🔗 **[Aceda ao Dashboard Publicado Aqui]([https://SEU-USUARIO-AQUI.github.io/NOME-DO-REPOSITORIO/](https://rizeprogtarg-lang.github.io/Porsche-Business-Analytics-Dashboard/))** *(Substitua este link pelo endereço real do seu GitHub Pages)*
 
 ## 🎯 Perguntas de Negócio Escolhidas
 Para garantir que o dashboard entregava valor real e não apenas gráficos avulsos, foquei-me em três questões fundamentais para a estratégia comercial de concessionárias de luxo:
